@@ -11,6 +11,18 @@ body{
     background: rgb(231, 69, 96);
 }
 
+header{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    padding-top: 20px;
+}
+
 .container {
     background-color: #d1d1d1;
     width: 500px;
@@ -83,6 +95,16 @@ img {
 }
 
 header{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    padding-top: 20px;
+}header{
     height: 100px;
     width: 100%;
     background-color: black;
